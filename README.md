@@ -1,3 +1,3 @@
-# BSW
-DGSM.me
-Educational Website
+# DGES.me
+Educational Website Project
+
